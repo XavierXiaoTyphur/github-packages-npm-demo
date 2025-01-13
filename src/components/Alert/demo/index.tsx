@@ -1,4 +1,3 @@
-import { Foo } from '@typhur/ui'
 import { Alert } from 'perfectD'
 import React from 'react'
 export default function index() {
@@ -9,7 +8,6 @@ export default function index() {
 			<Alert type="success" content="Here is an success text" style={margin} />
 			<Alert type="warning" content="Here is an warning text" style={margin} />
 			<Alert type="error" content="Here is an error text" style={margin} />
-			<Foo title="123" />
 		</div>
 	)
 }
