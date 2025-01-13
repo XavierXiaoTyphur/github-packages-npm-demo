@@ -2,7 +2,11 @@
   "name": "@typhur/ui",
   "version": "1.0.3",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/XavierXiaoTyphur/github-packages-npm-demo.git"
   },
   "description": "A Component Library for React",
   "license": "MIT",
